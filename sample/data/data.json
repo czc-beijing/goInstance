@@ -1,0 +1,12 @@
+[
+{
+	"site" : "汽柴油",
+	"link" : "https://api.help.bj.cn/apis/youjia/",
+	"type" : "baidu"
+},
+{
+	"site" : "天气",
+	"link" : "https://api.help.bj.cn/apis/life29/?id=101060101",
+	"type" : "zhihu"
+}
+]
